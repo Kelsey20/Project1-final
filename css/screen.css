@@ -83,6 +83,7 @@ input{
 @media screen and (min-width: 800px) {
  #container {
   text-align: right;
+  font-size: 15px;
   width: 90%;
  }
 }
@@ -90,6 +91,7 @@ input{
   /* … */
   #container {
   clear: right;
+  font-size: 15px;
   width: 90%;
 	}
 }
@@ -97,6 +99,7 @@ input{
 @media screen and (min-width: 940px) {
  #container {
   width: 90%;
+  font-size: 15px;
  }
 }
 
