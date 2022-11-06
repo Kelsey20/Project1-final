@@ -92,7 +92,6 @@ input{
 @media screen and (min-width: 510px) {
  #container {
   text-align: center;
-  margin: 3% auto 0 auto;
   width: 90%;
  }
 }
@@ -100,14 +99,12 @@ input{
   /* … */
   #container {
   clear: right;
-  margin: 3% auto 0 auto;
   width: 90%;
 	}
 }
 
 @media screen and (min-width: 940px) {
  #container {
-  margin: 3%;
   width: 90%;
  }
 }
