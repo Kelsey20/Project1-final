@@ -94,21 +94,13 @@ input[type=submit]{
  .wrap img{
 display: block;
 width: 100%;
-max-height: fit-content;
+height: 100%
 margin-left: auto;
 margin-right: auto;
 text-align: center;
 }
 }
 
-@media (min-height: 680px), screen and (orientation: portrait) {
-  /* … */
-  #container {
-  clear: right;
-  font-size: 15px;
-  width: 90%;
-	}
-}
 
 @media screen and (min-width: 940px) {
  #container {
